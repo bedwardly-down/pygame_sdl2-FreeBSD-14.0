@@ -1,0 +1,14 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+cloudpickle==3.0.0
+Cython==3.0.9
+ecdsa==0.18.0
+future==1.0.0
+idna==3.6
+pefile==2023.2.7
+pygame==2.5.2
+requests==2.31.0
+six==1.16.0
+Tkinter==0.0.0
+typing==3.7.4.3
+urllib3==2.2.1
